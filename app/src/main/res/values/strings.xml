@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">LanguageSwitch</string>
+    <string name="zh">Chinese</string>
+    <string name="en">English</string>
+    <string name="defaults">default</string>
+    <string name="content">Cease to struggle and you cease to live</string>
+    <string name="content2">All things in their being are good for something</string>
+    <string name="content3">Better to light one candle than to curse the darkness</string>
+    <string name="content4">The shortest answer is doing</string>
+    <string name="content5">Failure is the mother of success</string>
+    <string name="content6">A man can not ride your back unless it is bent</string>
+    <string name="content7">Every man at forty is a fool or a physician</string>
+    <string name="main_title">Home</string>
+    <string name="menu_notifications">notification</string>
+    <string name="menu_search">search</string>
+</resources>

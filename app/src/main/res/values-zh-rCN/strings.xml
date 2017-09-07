@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">语言切换</string>
+    <string name="zh">中文</string>
+    <string name="en">英文</string>
+    <string name="defaults">默认</string>
+    <string name="content">生命不止，奋斗不息</string>
+    <string name="content2">天生我才必有用</string>
+    <string name="content3">与其诅咒黑暗，不如燃起蜡烛</string>
+    <string name="content4">最简短的回答就是行动</string>
+    <string name="content5">失败乃成功之母</string>
+    <string name="content6">你的腰不弯，别人就不能骑在你的背上</string>
+    <string name="content7">人到四十，如果不是傻子，就该知道保养身体</string>
+    <string name="main_title">首页</string>
+
+    <string name="menu_notifications">通知</string>
+    <string name="menu_search">搜索</string>
+</resources>
